@@ -9,7 +9,7 @@ This handy utility not only automatically creates the initial QuadViews user set
 
 See https://github.com/mbucchia/Quad-Views-Foveated/wiki for further details.
 
-Works with Pimax Crystal, Pimax 12k, and Varjo Aero, Varjo XR3.
+Works with Pimax Crystal, Pimax 12k, and Varjo Aero, Varjo XR3, along with Meta Quest Pro.
 
 If needed: https://dotnet.microsoft.com/en-us/download/dotnet/6.0
 
