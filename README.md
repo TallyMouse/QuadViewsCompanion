@@ -9,9 +9,12 @@ This handy utility not only automatically creates the initial QuadViews user set
 
 See https://github.com/mbucchia/Quad-Views-Foveated/wiki for further details.
 
-Works with Pimax Crystal, Pimax 12k, and Varjo Aero, Varjo XR3, along with Meta Quest Pro.
+Works with Pimax Crystal, Pimax Crystal Light (FFR), Pimax Super, Pimax 12k, and Varjo Aero, Varjo XR3, along with Meta Quest Pro.
 
 If needed: https://dotnet.microsoft.com/en-us/download/dotnet/6.0
+
+Changelog v 1.0.12:
+Updated to include support for Pimax OpenXR runtime (requires Pimax Play QuadViews to be unchecked, mbucchia's QuadViews Foveated to be installed).
 
 Changelog v 1.0.11:
 Updated to include application-based excludes introduced in QuadViews 1.1.3.
